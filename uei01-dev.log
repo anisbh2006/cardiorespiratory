@@ -1,0 +1,90 @@
+
+> 4cb68a78@0.0.0 dev
+> vite --port 5173
+
+(!) Your Vite config uses features that are unsupported by `configLoader: 'native'`, which is planned to become the default in a future major version of Vite:
+  - `__dirname` (vite.config.ts:10:25). Use `import.meta.dirname` instead
+Set `VITE_CONFIG_NATIVE_IGNORE_WARNING=true` to suppress this warning.
+Port 5173 is in use, trying another one...
+
+  VITE v8.3.0  ready in 3347 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+11:42:27 PM [vite] vite.config.ts changed, restarting server...
+11:42:27 PM [vite] server restarted.
+11:50:57 PM [vite] (client) hmr update /src/index.css, /src/components/ui/progress.tsx
+12:15:53 AM [vite] (client) hmr update /src/index.css
+12:16:03 AM [vite] (client) hmr update /src/index.css, /src/components/layout/TopBar.tsx, /src/components/layout/SearchOverlay.tsx, /src/pages/HomePage.tsx, /src/pages/DisciplinePage.tsx, /src/pages/StudyPage.tsx, /src/pages/LessonPage.tsx
+12:16:26 AM [vite] (client) hmr update /src/index.css, /src/components/layout/TopBar.tsx, /src/components/layout/SearchOverlay.tsx, /src/pages/HomePage.tsx, /src/pages/DisciplinePage.tsx, /src/pages/StudyPage.tsx, /src/pages/LessonPage.tsx
+12:16:26 AM [vite] (client) hmr update /src/index.css, /src/components/layout/TopBar.tsx, /src/components/layout/SearchOverlay.tsx, /src/pages/HomePage.tsx, /src/pages/DisciplinePage.tsx, /src/pages/StudyPage.tsx, /src/pages/LessonPage.tsx
+12:16:27 AM [vite] (client) hmr update /src/index.css, /src/components/layout/TopBar.tsx, /src/components/layout/SearchOverlay.tsx, /src/pages/HomePage.tsx, /src/pages/DisciplinePage.tsx, /src/pages/StudyPage.tsx, /src/pages/LessonPage.tsx
+12:16:27 AM [vite] (client) hmr update /src/index.css, /src/components/layout/TopBar.tsx, /src/components/layout/SearchOverlay.tsx, /src/pages/HomePage.tsx, /src/pages/DisciplinePage.tsx, /src/pages/StudyPage.tsx, /src/pages/LessonPage.tsx
+12:16:27 AM [vite] (client) hmr update /src/index.css, /src/components/layout/TopBar.tsx, /src/components/layout/SearchOverlay.tsx, /src/pages/HomePage.tsx, /src/pages/DisciplinePage.tsx, /src/pages/StudyPage.tsx, /src/pages/LessonPage.tsx
+12:16:28 AM [vite] (client) hmr update /src/index.css, /src/components/layout/TopBar.tsx, /src/components/layout/SearchOverlay.tsx, /src/pages/HomePage.tsx, /src/pages/DisciplinePage.tsx, /src/pages/StudyPage.tsx, /src/pages/LessonPage.tsx
+12:16:52 AM [vite] (client) hmr update /src/index.css, /src/pages/LessonPage.tsx
+12:16:58 AM [vite] (client) hmr update /src/index.css, /src/pages/LessonPage.tsx
+12:17:02 AM [vite] (client) hmr update /src/index.css, /src/pages/LessonPage.tsx
+12:17:09 AM [vite] (client) hmr update /src/index.css, /src/pages/LessonPage.tsx
+12:17:14 AM [vite] (client) hmr update /src/index.css, /src/pages/LessonPage.tsx
+12:17:22 AM [vite] (client) hmr update /src/index.css, /src/pages/LessonPage.tsx
+12:17:29 AM [vite] (client) hmr update /src/index.css, /src/pages/LessonPage.tsx
+12:17:41 AM [vite] (client) hmr update /src/index.css
+12:17:47 AM [vite] (client) hmr update /src/index.css, /src/pages/DisciplinePage.tsx
+12:17:55 AM [vite] (client) hmr update /src/index.css, /src/components/layout/SearchOverlay.tsx
+12:18:03 AM [vite] (client) hmr update /src/index.css, /src/components/layout/SearchOverlay.tsx
+12:19:59 AM [vite] (client) hmr update /src/index.css, /src/pages/HistologyPage.tsx
+12:27:05 AM [vite] (client) hmr update /src/index.css, /src/components/layout/SearchOverlay.tsx, /src/pages/SearchPage.tsx, /src/features/three/AnatomyViewer.tsx, /src/features/three/ProceduralHeart.tsx, /src/pages/AnatomyPage.tsx
+12:27:14 AM [vite] (client) hmr update /src/index.css, /src/pages/AnatomyPage.tsx
+12:32:10 AM [vite] (client) hmr update /src/index.css
+12:32:30 AM [vite] (client) hmr update /src/index.css, /src/components/layout/SearchOverlay.tsx, /src/pages/SearchPage.tsx, /src/features/three/AnatomyViewer.tsx, /src/features/three/ProceduralHeart.tsx, /src/pages/AnatomyPage.tsx
+12:34:54 AM [vite] (client) hmr update /src/index.css, /src/features/three/AnatomyViewer.tsx, /src/features/three/ProceduralHeart.tsx
+12:34:55 AM [vite] (client) dependency optimized: three/examples/jsm/utils/BufferGeometryUtils.js
+12:34:55 AM [vite] (client) optimized dependencies changed. reloading
+12:35:11 AM [vite] (client) hmr update /src/index.css, /src/features/three/ProceduralHeart.tsx
+12:36:06 AM [vite] (client) hmr update /src/index.css, /src/features/three/AnatomyViewer.tsx
+12:38:03 AM [vite] (client) hmr update /src/index.css, /src/pages/AnatomyPage.tsx
+12:39:05 AM [vite] (client) hmr update /src/index.css
+12:39:14 AM [vite] (client) hmr update /src/index.css, /src/components/layout/SearchOverlay.tsx, /src/pages/SearchPage.tsx, /src/features/three/AnatomyViewer.tsx, /src/features/three/ProceduralHeart.tsx, /src/pages/AnatomyPage.tsx
+12:39:19 AM [vite] (client) hmr update /src/index.css, /src/components/medical/StructureInfoPanel.tsx
+12:39:37 AM [vite] (client) hmr update /src/index.css, /src/components/medical/StructureInfoPanel.tsx
+12:39:41 AM [vite] (client) hmr update /src/index.css, /src/components/medical/StructureInfoPanel.tsx
+12:39:46 AM [vite] (client) hmr update /src/index.css, /src/components/medical/StructureInfoPanel.tsx
+12:40:25 AM [vite] (client) hmr update /src/index.css, /src/components/medical/StructureInfoPanel.tsx
+12:44:59 AM [vite] (client) hmr update /src/index.css, /src/features/three/ProceduralHeart.tsx
+12:46:57 AM [vite] (client) hmr update /src/index.css, /src/features/three/ProceduralHeart.tsx
+12:47:31 AM [vite] (client) hmr update /src/index.css, /src/features/three/AnatomyViewer.tsx
+12:47:37 AM [vite] (client) hmr update /src/index.css, /src/features/three/AnatomyViewer.tsx
+12:47:50 AM [vite] (client) hmr update /src/index.css, /src/features/three/AnatomyViewer.tsx
+12:47:55 AM [vite] (client) hmr update /src/index.css, /src/features/three/AnatomyViewer.tsx
+12:48:34 AM [vite] (client) hmr update /src/index.css, /src/features/three/ProceduralHeart.tsx
+12:52:48 AM [vite] (client) hmr update /src/index.css, /src/features/three/AnatomyViewer.tsx
+1:09:52 AM [vite] (client) page reload index.html
+1:10:18 AM [vite] (client) hmr update /src/index.css, /src/pages/PhysiologyPage.tsx
+1:17:13 AM [vite] (client) hmr update /src/index.css, /src/features/physiology/TransportControls.tsx
+1:17:21 AM [vite] (client) hmr update /src/index.css, /src/features/physiology/TransportControls.tsx
+1:17:30 AM [vite] (client) hmr update /src/index.css, /src/features/physiology/TransportControls.tsx
+1:17:36 AM [vite] (client) hmr update /src/index.css, /src/features/physiology/VizFrame.tsx
+1:17:43 AM [vite] (client) hmr update /src/index.css, /src/features/physiology/VizFrame.tsx
+1:17:48 AM [vite] (client) hmr update /src/index.css, /src/features/physiology/VizFrame.tsx
+1:32:27 AM [vite] (client) hmr update /src/index.css, /src/pages/PhysiologyPage.tsx
+1:54:58 AM [vite] (client) hmr update /src/index.css, /src/pages/PhysiologyPage.tsx
+1:55:06 AM [vite] (client) hmr update /src/index.css, /src/pages/PhysiologyPage.tsx
+2:03:58 AM [vite] (client) hmr update /src/index.css, /src/pages/HistologyPage.tsx
+2:05:48 AM [vite] (client) hmr update /src/index.css, /src/pages/HistologyPage.tsx
+2:15:00 AM [vite] (client) hmr update /src/index.css, /src/pages/HistologyPage.tsx
+2:15:12 AM [vite] (client) hmr update /src/index.css, /src/pages/HistologyPage.tsx
+2:15:19 AM [vite] (client) hmr update /src/index.css, /src/components/medical/HistologyViewer.tsx
+2:15:43 AM [vite] (client) hmr update /src/index.css
+2:15:52 AM [vite] (client) hmr update /src/index.css, /src/pages/HistologyPage.tsx
+2:17:48 AM [vite] (client) hmr update /src/index.css, /src/components/medical/histology/MicroscopeViewer.tsx
+2:25:42 AM [vite] (client) hmr update /src/index.css
+3:35:13 PM [vite] (client) hmr update /src/index.css, /src/components/ui/button.tsx
+3:35:52 PM [vite] (client) hmr update /src/index.css, /src/components/ui/skeleton.tsx
+3:36:08 PM [vite] (client) hmr update /src/index.css, /src/components/ui/tabs.tsx
+3:36:21 PM [vite] (client) hmr update /src/index.css, /src/components/ui/progress.tsx
+3:36:57 PM [vite] (client) hmr update /src/index.css, /src/components/ui/accordion.tsx
+3:37:46 PM [vite] (client) hmr update /src/index.css, /src/layouts/AppLayout.tsx
+3:38:09 PM [vite] (client) hmr update /src/index.css, /src/components/layout/TopBar.tsx
+3:38:17 PM [vite] (client) hmr update /src/index.css, /src/components/layout/TopBar.tsx
+3:38:27 PM [vite] (client) hmr update /src/index.css, /src/components/layout/TopBar.tsx

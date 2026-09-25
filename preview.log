@@ -1,0 +1,6 @@
+
+> 4cb68a78@0.0.0 preview
+> vite preview --port 4199 --strictPort
+
+  ➜  Local:   http://localhost:4199/
+  ➜  Network: use --host to expose

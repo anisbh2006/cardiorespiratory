@@ -1,0 +1,730 @@
+
+===== TD-02)Spirométrie_EN.pdf (pdf, 40 pages) =====
+  p  1 imgs= 2 | TD Spirometry
+  p  2 imgs= 0 | Objectives of the TD
+  p  3 imgs= 0 | 1.Describe the respiratory cycle
+  p  4 imgs= 1 | Describe the respiratory cycle
+  p  6 imgs= 0 | 2.Describe the evolution of intrapulmonary pressure during the ventilatory cycle.
+  p  7 imgs= 0 | Describe the evolution of intrapulmonary pressure
+  p  9 imgs= 0 | 3.Describe the ventilatory dynamics (Evolution of intrapulmonary pressure during the
+  p 11 imgs= 0 | 4.What are the two main groups of measurable parameters to assess respiratory
+  p 12 imgs= 1 | 4.What are the two main groups of measurable parameters to assess respiratory function?
+  p 13 imgs= 2 | (no text)
+  p 14 imgs= 0 | 5.Locate on the diagram, what is a flow rate and a volume
+  p 17 imgs= 0 | 6.What are the parameters measured by spirometry? (mobilizable volumes)
+  p 20 imgs= 0 | 7.Define non-mobilizable volumes
+  p 22 imgs= 0 | SpirometryFocus
+  p 23 imgs= 0 | How to perform spirometry?
+  p 24 imgs= 0 | Calibration
+  p 25 imgs= 0 | How to perform spirometry?
+  p 26 imgs= 2 | (no text)
+  p 27 imgs= 0 | How to perform spirometry?
+  p 29 imgs= 0 | Curves obtained
+  p 30 imgs= 0 | Interpretation of results
+  p 31 imgs= 0 | Interpretation of results (%)
+  p 32 imgs= 0 | Interpretation of results
+  p 33 imgs= 0 | Presentation of results
+  p 34 imgs= 0 | Examples of curves
+  p 35 imgs= 1 | Curve
+  p 36 imgs= 1 | (no text)
+  p 40 imgs= 0 | Key messages
+
+===== physio respiratoir/10)Échangesgazeuxpulmonaireetsystémique_EN.pptx (pptx, 47 pages) =====
+  p  1 imgs= 0 | Respiratory physiology
+  p  2 imgs= 0 | Pulmonary and systemic gas exchanges
+  p 12 imgs= 0 | III-Gas exchanges in the pulmonary capillaries: alveolocapillary exchanges of gases
+  p 13 imgs=12 | IV-Gas exchanges in the pulmonary capillaries: alveolocapillary exchanges
+  p 14 imgs= 0 | III-Gas exchanges in the pulmonary capillaries: alveolocapillary exchanges of gases
+  p 15 imgs= 0 | Alveolus
+  p 16 imgs= 1 | III-Gas exchanges in the pulmonary capillaries: alveolocapillary exchanges of gases
+  p 17 imgs= 0 | Po₂=40
+  p 18 imgs= 0 | III-Gas exchanges in the pulmonary capillaries: alveolocapillary exchanges of gases
+  p 23 imgs= 0 | III-Gas exchanges in the pulmonary capillaries
+  p 35 imgs= 1 | III-Gas exchanges in the pulmonary capillaries F-Efficiency of alveolocapillary exchanges:
+  p 36 imgs= 0 | F-Efficiency of alveolocapillary exchanges: Anatomical blood shunt
+  p 37 imgs= 1 | F-Efficiency of alveolocapillary exchanges: Ventilation-perfusion ratio
+  p 38 imgs= 1 | (no text)
+  p 39 imgs= 1 | Pulmonary and systemic gas exchanges
+  p 40 imgs= 0 | III-Gas exchanges in the pulmonary capillaries
+  p 41 imgs= 1 | F-Efficiency of alveolocapillary exchanges:
+  p 42 imgs= 0 | IV-Gas exchanges in systemic capillaries
+  p 45 imgs= 0 | Alveolus
+  p 46 imgs= 0 | Po₂=40
+  p 47 imgs= 0 | Pulmonary and systemic gas exchanges
+
+===== physio respiratoir/11)Transportdesgazdanslesang_EN.pdf (pdf, 39 pages) =====
+  p  1 imgs= 0 | Faculty of Medicine of Algiers
+  p  2 imgs= 0 | TRANSPORT OF GAS IN THE BLOOD
+  p  3 imgs= 0 | General
+  p  6 imgs= 0 | Transport of O2 in the blood
+  p 19 imgs= 1 | Transport of O2HbO2 dissociation
+  p 20 imgs= 0 | Transport of O2 in the blood
+  p 27 imgs= 0 | Transport of CO2 in the blood
+  p 31 imgs=10 | Connection
+  p 32 imgs= 1 | Transport of CO2 in the blood
+  p 34 imgs= 0 | Relationship between CO2 content and blood pH
+
+===== physio respiratoir/12)Régulationdelarespiration_EN.pptx (pptx, 41 pages) =====
+  p  1 imgs= 0 | UNIVERSITY OF HEALTH SCIENCES FACULTY OF MEDICINEPHYSIOLOGY LABORATORYBREATHING REGULATION
+  p  2 imgs= 0 | GENERAL Definition
+  p  3 imgs= 0 | GENERAL Respiratory control
+  p  4 imgs= 0 | GENERALFeedback loop
+  p  5 imgs= 1 | (no text)
+  p  6 imgs= 2 | RESPIRATORY CENTERS
+  p  7 imgs= 0 | II-RESPIRATORY CENTERS AND AUTOMATISM A- Respiratory centers
+  p  9 imgs= 0 | II- RESPIRATORY CENTERS AND AUTOMATISM A- Respiratory centers
+  p 12 imgs= 0 | II-RESPIRATORY CENTERS AND AUTOMATISM C- RESPIRATORY CENTERS
+  p 13 imgs= 0 | II-RESPIRATORY CENTERS AND AUTOMATION A-RESPIRATORY CENTERS
+  p 14 imgs= 0 | II- RESPIRATORY CENTERS AND AUTOMATISM A-respiratory centers
+  p 15 imgs= 1 | Respiratory centers
+  p 16 imgs= 0 | II- RESPIRATORY CENTERS AND AUTOMATISM B-CHEMORECEPTORS
+  p 17 imgs= 0 | II- RESPIRATORY CENTERS AND AUTOMATISM B-CHEMORECEPTORSB1-peripheral chemoreceptors
+  p 18 imgs= 1 | Glossopharyngeal
+  p 19 imgs= 0 | II- RESPIRATORY CENTERS AND AUTOMATISM B-CHEMORECEPTORSB2- central chemoreceptors
+  p 21 imgs= 2 | (no text)
+  p 22 imgs= 0 | II- RESPIRATORY CENTERS AND AUTOMATISM B-CHEMORECEPTORS B3-CONTROL BY PO2
+  p 23 imgs= 0 | II- RESPIRATORY CENTERS AND AUTOMATISM B-CHEMORECEPTORSB4-CONTROL BY PCO2
+  p 24 imgs= 2 | Effect on ventilation by: a- inhalation of oxygen-depleted mixturesb- addition of CO2 to inspired air
+  p 25 imgs= 0 | II- RESPIRATORY CENTERS AND AUTOMATISM B-CHEMORECEPTORS CONTROL BY PCO2 and PO2 (curves)
+  p 26 imgs= 0 | II- RESPIRATORY CENTERS AND AUTOMATISM B-CHEMORECEPTORSB5-INFLUENCE OF CO₂-INDEPENDENT H⁺
+  p 27 imgs= 2 | Main chemical stimuli
+  p 28 imgs= 0 | II- RESPIRATORY CENTERS AND AUTOMATISM B-CHEMORECEPTORSB6-Potentiating effect
+  p 29 imgs= 0 | II- RESPIRATORY CENTERS AND AUTOMATISM C-PULMONARY MECHANORECEPTORSSC1- Héring-Breuer reflex
+  p 30 imgs= 0 | II- RESPIRATORY CENTERS AND AUTOMATISM C-PULMONARY MECHANORECEPTORS C2-Spinal reflexes (myotatic reflex)
+  p 31 imgs= 0 | II- RESPIRATORY CENTERS AND AUTOMATISM C-PULMONARY MECHANORECEPTORSSC3-Protective respiratory reflexes
+  p 32 imgs= 0 | II- RESPIRATORY CENTERS AND AUTOMATISM EXTRA-PULMONARY RESPIRATORY REGULATION
+  p 33 imgs= 0 | III- III- CONTROL OF VENTILATION SPECIAL PHYSIOLOGICAL CONDITIONS A-DURING EXERCISE
+  p 34 imgs= 0 | III- CONTROL OF VENTILATION SPECIAL PHYSIOLOGICAL CONDITIONS A-DURING EXERCISE
+  p 35 imgs= 0 | III- CONTROL OF VENTILATION SPECIAL PHYSIOLOGICAL CONDITIONS B-ACCLIMATION TO HIGH ALTITUDE
+  p 38 imgs= 0 | SUMMARY
+  p 39 imgs= 0 | Summary
+  p 40 imgs= 1 | (no text)
+  p 41 imgs= 0 | CONCLUSION
+
+===== physio respiratoir/8)IntroductionàlaPhysiologierespiratoire_EN.pptx (pptx, 20 pages) =====
+  p  1 imgs= 0 | Respiratory physiology
+  p  3 imgs= 0 | Chapter 1: Introduction to respiratory physiology
+  p  4 imgs= 0 | Chapter 1: Introduction to Respiratory Physiology
+  p  5 imgs= 1 | Chapter I: Introduction to respiratory physiology
+  p  6 imgs= 0 | Chapter 1: Introduction to respiratory physiology
+  p 11 imgs= 0 | Chapter 1: Introduction to Respiratory Physiology
+  p 13 imgs= 1 | Chapter 1: Introduction to respiratory physiology IV-Organization of the respiratory system:
+
+===== physio respiratoir/9)Mécaniqueventilatoire__EN.pptx (pptx, 70 pages) =====
+  p  1 imgs= 0 | Respiratory physiology
+  p  2 imgs= 0 | Chapter 2: Ventilatory mechanics.
+  p  9 imgs= 1 | I-Respiratory cycle
+  p 10 imgs= 0 | Chapter 2: Ventilatory mechanics
+  p 13 imgs= 0 | Airways
+  p 14 imgs= 0 | Chapter 2: Ventilatory mechanics.
+  p 15 imgs= 0 | Airways
+  p 16 imgs= 0 | Chapter 2: Ventilatory mechanics.
+  p 17 imgs= 0 | Boyle-Mariotte law: The pressure of the gas decreases proportionally to the increase in the volume in which it
+  p 18 imgs= 0 | Chapter 2: Ventilatory mechanics.
+  p 19 imgs= 0 | Sequence of events during inspiration
+  p 20 imgs= 0 | Chapter 2: Ventilatory mechanics.
+  p 21 imgs= 0 | Sequence of events during expiration
+  p 22 imgs= 1 | Chapter 2: Ventilatory mechanics 1-Respiratory cycle.
+  p 23 imgs= 0 | Chapter 2: Ventilatory mechanics.
+  p 34 imgs= 0 | Concept of compliance
+  p 35 imgs= 0 | Chapter 2: Ventilatory mechanics.
+  p 36 imgs= 0 | The main transmural pressures of the thoracopulmonary system:
+  p 37 imgs= 1 | III-Elastic properties of the respiratory system.
+  p 38 imgs= 1 | III-Elastic properties of the respiratory system
+  p 39 imgs= 0 | Chapter 2: Ventilatory mechanics.
+  p 42 imgs= 0 | Surface tension of a liquid
+  p 43 imgs= 1 | In the alveoli, to minimize the air-liquid interface, surface tension tends to collapse the alveoli and cause 
+  p 44 imgs= 0 | Chapter 2: Ventilatory mechanics.
+  p 46 imgs= 0 | 2-Surface tension and surfactant
+  p 47 imgs= 0 | Chapter 2: Ventilatory mechanics.
+  p 49 imgs= 1 | (no text)
+  p 50 imgs= 0 | Chapter 2: Ventilatory mechanics.
+  p 54 imgs= 1 | (no text)
+  p 55 imgs= 0 | Chapter 2: Ventilatory mechanics.
+  p 61 imgs= 0 | IV-Resistive properties of the respiratory system
+  p 63 imgs= 0 | Respiratory volumes and capacities for a young adult male of average build
+  p 64 imgs= 1 | Chapter 2: Ventilatory mechanics V-Volumes and lung capacities
+  p 67 imgs= 0 | Chapter 2: Ventilatory mechanics.
+  p 69 imgs= 1 | Chapter II: Ventilatory mechanics.
+  p 70 imgs= 1 | Pulmonary and systemic gas exchanges
+
+===== anatomy respiratoire/10)Anatomydularynx__EN.pdf (pdf, 5 pages) =====
+  p  1 imgs= 1 | Boudinelabanatlarynx23
+
+===== anatomy respiratoire/11)Anatomiedelatrachéeetdesbronches__EN.pdf (pdf, 9 pages) =====
+  p  1 imgs= 2 | 1
+  p  2 imgs= 2 | 2
+  p  3 imgs= 1 | 3
+  p  4 imgs= 1 | 4
+  p  5 imgs= 1 | 5
+  p  6 imgs= 1 | 6
+  p  7 imgs= 1 | 7
+  p  8 imgs= 2 | 8
+  p  9 imgs= 1 | 9
+
+===== anatomy respiratoire/12)Anatomiedespoumons,plèvreetdespédiculespulmonaires__EN.pdf (pdf, 8 pages) =====
+  p  1 imgs= 2 | LABANATALGER202425
+
+===== anatomy respiratoire/13)Anatomiedudiaphragmeetdunerfphrénique_EN.pdf (pdf, 7 pages) =====
+  p  1 imgs= 3 | PLAN: I-Definition II-Form and Situation III-Constitution:
+  p  2 imgs= 2 | I-Definition:
+  p  3 imgs= 2 | ? It is a set of small digastric muscle bundles which insert at the periphery on
+  p  4 imgs= 3 | C- The vertebral portion (lumbar):
+  p  5 imgs= 3 | 1-The main orifices: -Aortic hiatus: -fibrous orifice. -It projects onto the body of T12
+  p  6 imgs= 2 | A- The vessels of the thoracic face: 1-The arteries: they come from the
+  p  7 imgs= 0 | ? Quadriplegia by section or spinal cord trauma is viable if the lesion level is
+
+===== biophysic/1)HémodynamiqueetBiophysiqueVasculaire_EN.pdf (pdf, 55 pages) =====
+  p  1 imgs= 0 | Hemodynamics & Biophysics
+  p  2 imgs= 0 | • L’activité électrique du cœur,
+  p  3 imgs= 0 | A- General:
+  p  4 imgs= 0 | Perfect incompressible fluids:
+  p  5 imgs= 0 | But we can also express it in atmospheres (atm), in millimeters of mercury
+  p  6 imgs= 0 | Au cours de l’écoulement d’un fluide parfait, incompressible en régime permanent,
+  p  7 imgs= 0 | B- Elements of flow biophysics
+  p  8 imgs= 0 | Blood viscosity:
+  p  9 imgs= 2 | (no text)
+  p 10 imgs= 0 | For Newtonian liquids like water or plasma, the viscosity is constant. Solutions
+  p 11 imgs= 0 | •
+  p 12 imgs= 1 | (no text)
+  p 13 imgs= 0 | The flow of blood:
+  p 14 imgs= 0 | II- the Venturi effect:
+  p 15 imgs= 0 | Auscultation of the vessels:
+  p 16 imgs= 0 | III- Flows of real fluids: During the flow of real fluids, there is, unlike
+  p 17 imgs= 0 | IV- Speed ??profiles and Poiseuille?s law:
+  p 18 imgs= 0 | This equation is valid as long as the Reynolds number of the flow
+  p 19 imgs= 0 | Il s’agit de la viscosité qu’aurait un fluide newtonien qui induirait le même
+  p 20 imgs= 0 | •
+  p 21 imgs= 0 | If we reverse Poiseuille?s formula we have:
+  p 22 imgs= 0 | Role of vasomotion on flow:
+  p 23 imgs= 0 | VI- The shear rate inside the vessel and at its
+  p 24 imgs= 0 | Flow-dependent expansion:
+  p 25 imgs= 0 | VII- Vascular resistance: Poiseuille's law can be written as
+  p 26 imgs= 0 | C- Biophysics of vascular walls:
+  p 27 imgs= 1 | Hooke's law simplified
+  p 28 imgs= 1 | est la force nécessaire p
+  p 29 imgs= 0 | Laplace's law applied to a cylindrical artery
+  p 30 imgs= 0 | In a cylinder, the relationship between surface tension Ts, ?P, and
+  p 31 imgs= 0 | Voltage-radius diagram of vascular walls: regulation of
+  p 32 imgs= 1 | I- Purely elastic artery:
+  p 33 imgs= 0 | For a radius r of the artery, if we consider a pressure inside
+  p 34 imgs= 0 | y
+  p 35 imgs= 1 | Subjected to a given transmural pressure gradient, the artery will have
+  p 36 imgs= 1 | We can show that this equilibrium is stable. In fact, the
+  p 37 imgs= 1 | III- Evolution of the radius with the transmural pressure:
+  p 38 imgs= 1 | IV- Role of elastin ? collagen proportions:
+  p 39 imgs= 1 | V- Mixed artery:
+  p 40 imgs= 1 | The tension - radius diagram
+  p 41 imgs= 0 | ?We note that the curve (C?) intersects the Laplace line Ts = ?P.r at
+  p 42 imgs= 0 | transmural pressure.
+  p 43 imgs= 2 | (no text)
+  p 44 imgs= 0 | VII- Effect of transmural pressure variation:
+  p 45 imgs= 1 | (no text)
+  p 47 imgs= 0 | D- Consequence of the elasticity of the aorta
+  p 48 imgs= 0 | La relation entre la variation de pression dP et la variation de volume dV fait
+  p 49 imgs= 0 | Si on fait l hypothèse simplificatrice d un débit de sortie du ventricule
+  p 50 imgs= 1 | restitue ce volume de façon uniforme pendant tout le cycle cardiaque de
+  p 51 imgs= 1 | In fact, real situations are intermediate between these two extremes
+  p 52 imgs= 0 | Consequence on the work and on the power provided by the
+  p 53 imgs= 0 | (01)
+  p 54 imgs= 0 | (02)
+  p 55 imgs= 0 | We see that PC=? = Pc=0.(Ts/Tc)
+
+===== biophysic/2)BiophysiqueCardiaque_EN.pdf (pdf, 34 pages) =====
+  p  1 imgs= 0 | Cardiac biophysics
+  p  2 imgs= 0 | I- General:
+  p  3 imgs= 1 | (no text)
+  p  4 imgs= 0 | The heart is made up of two pumps in series (the ventricles) which
+  p  5 imgs= 1 | (no text)
+  p  6 imgs= 0 | II- Pressure-time curves:
+  p  7 imgs= 1 | (no text)
+  p 10 imgs= 0 | III- Volume-time curves:
+  p 11 imgs= 1 | (no text)
+  p 12 imgs= 1 | IV- Pressure-Volume curve:
+  p 13 imgs= 1 | (no text)
+  p 14 imgs= 0 | V- METHODS OF STUDYING CARDIAC
+  p 15 imgs= 1 | A- Auscultation:
+  p 16 imgs= 1 | Pathology: heart murmurs
+  p 17 imgs= 3 | B- Measurement of intracardiac pressures: Catheterization and installation of
+  p 18 imgs= 2 | C- Measurement of volumes:
+  p 19 imgs= 1 | (no text)
+  p 20 imgs= 0 | VI- Cardiac work:
+  p 21 imgs= 1 | (no text)
+  p 24 imgs= 0 | VII- BIOPHYSICAL DETERMINANTS OF THE
+  p 25 imgs= 1 | (no text)
+  p 32 imgs= 0 | VIII- Pathological examples:
+  p 33 imgs= 1 | (no text)
+
+===== biophysic/3)Électrocardiogramme_EN.pdf (pdf, 28 pages) =====
+  p  1 imgs= 0 | Electrocardiogram
+  p  2 imgs= 0 | I- Anatomical reminders:
+  p  3 imgs= 1 | Nodal Fabric
+  p  4 imgs= 1 | ?Sinus or KEITH node-
+  p  5 imgs= 0 | ?Under normal conditions, the heart is activated from a group of cells
+  p  6 imgs= 0 | II- The action potential of the cardiac fiber:
+  p  7 imgs= 1 | ?Phase 0: depolarization,
+  p  8 imgs= 0 | Concepts of medical electronics:
+  p  9 imgs= 0 | ?The equipment which allows such studies has three schematized parts:
+  p 10 imgs= 0 | Dipolar theory:
+  p 11 imgs= 0 | So during a complete cycle, a cardiac fiber passes through 04
+  p 12 imgs= 1 | Registered
+  p 13 imgs= 1 | (no text)
+  p 14 imgs= 0 | Electric slip theory:
+  p 15 imgs= 1 | (no text)
+  p 16 imgs= 0 | ?When the cell is at rest, P looks at the positive upper side of ADC and
+  p 17 imgs= 1 | III- The derivations used in
+  p 18 imgs= 1 | The monopolar assemblies correspond to the potentials:
+  p 19 imgs= 1 | the active electrodes being located around the heart at the level of the 4th
+  p 20 imgs= 2 | (no text)
+
+===== anatomy cardiovasculaire/1)L’anatomiedelaparoithoracique__EN.pdf (pdf, 6 pages) =====
+  p  1 imgs= 2 | LABANATALGER202425
+
+===== anatomy cardiovasculaire/2)L’anatomiedumédiastin__EN.pdf (pdf, 3 pages) =====
+  p  1 imgs= 3 | PLAN :
+  p  2 imgs= 4 | III-Topographic anatomy: -International division proposed by Nomina
+  p  3 imgs= 4 | 1- Superior mediastinum: Limits: ? In front: manubrium of the
+
+===== anatomy cardiovasculaire/3)Laconfigurationextérieureetintérieureducœur_EN.pdf (pdf, 9 pages) =====
+  p  1 imgs= 2 | 1
+  p  2 imgs= 0 | 2
+  p  3 imgs= 2 | 3
+  p  4 imgs= 1 | 4
+  p  5 imgs= 2 | 5
+  p  6 imgs= 2 | 6
+  p  7 imgs= 0 | 7
+  p  8 imgs= 2 | 8
+  p  9 imgs= 0 | 9
+
+===== anatomy cardiovasculaire/4)Structuresducoeuretpéricarde_EN.pdf (pdf, 6 pages) =====
+  p  1 imgs= 3 | FROM ALGIERS. ALGIERS GENERAL ANATOMY LABORATORY.
+  p  2 imgs= 6 | Introduction: The heart is formed by 4 anatomical formations: I- The cardiac
+  p  3 imgs= 4 | 2-Ventricular fibers: Arranged in 02 categories of fibers: a-Fibers specific to each
+  p  4 imgs= 2 | 2- ASCHOFF and TAWARA septal node (atrioventricular): ? Located on the lower
+  p  5 imgs= 5 | 2-Parietal layer: ? IT arises from the reflection of the visceral layer at the base of the
+  p  6 imgs= 2 | Foci of cardiac auscultation: Forward: sterno-costal plastron, according
+
+===== anatomy cardiovasculaire/5)Lavascularisationducœur_EN.pdf (pdf, 8 pages) =====
+  p  1 imgs= 2 | LABANATALGER202425
+
+===== anatomy cardiovasculaire/6)L’innervationducœur_EN.pdf (pdf, 5 pages) =====
+  p  1 imgs= 2 | LABANATALGER202425
+
+===== anatomy cardiovasculaire/7)L’anatomiedusystèmeaortique__EN.pdf (pdf, 9 pages) =====
+  p  1 imgs= 2 | Plan d’étude :
+  p  2 imgs= 0 | The aorta is the largest and largest artery in the body. It arises from the left ventricle of the
+  p  3 imgs= 0 | :
+  p  4 imgs= 0 | superior, the trachea the nerves of the deep cardiac plexus, the thoracic esophagus the left recurrent
+  p  5 imgs= 0 | 8-At the termination: the iliocaval venous fork and the meso-sigmoid.
+  p  6 imgs= 0 | It can be affected by atheroma, wall calcium overload of the aorta. Significant chest
+  p  7 imgs= 6 | (no text)
+  p  8 imgs= 3 | Anatomical report of the
+  p  9 imgs= 3 | (no text)
+
+===== anatomy cardiovasculaire/8)L’anatomiedessystèmesCaveetAzygos_EN.pdf (pdf, 6 pages) =====
+  p  1 imgs= 2 | LABANATALGER202425
+
+===== anatomy cardiovasculaire/9)Anatomiedusystèmelymphatique__EN.pdf (pdf, 7 pages) =====
+  p  1 imgs= 2 | LABANATALGER202425
+
+===== physio cardiovasculaire/1)Électrophysiologiecardiaque(complet)_EN.pptx (pptx, 72 pages) =====
+  p  1 imgs= 0 | Cardiovascular Physiology
+  p  6 imgs= 0 | Cardiac electrophysiology
+  p 10 imgs= 2 | Cardiac electrophysiologyI-Coordination of cardiac function
+  p 11 imgs= 0 | Cardiac electrophysiology
+  p 12 imgs= 2 | Excito-conductive or cardionector tissue
+  p 13 imgs= 0 | Cardiac electrophysiology
+  p 19 imgs= 1 | The PA of rapidly depolarizing cells has four phases, for example the PA of a ventricular contractile cell
+  p 20 imgs= 0 | The PA of rapidly depolarizing cells has four phases Example: PA of a ventricular contractile cell
+  p 30 imgs= 1 | (no text)
+  p 31 imgs= 0 | The PA of rapidly depolarizing cells has four phases Example: PA of a ventricular contractile cell
+  p 34 imgs= 0 | Concept of refractory period
+  p 36 imgs= 1 | Concept of refractory period: tetanization of skeletal muscle
+  p 37 imgs= 4 | The action potential of slowly depolarizing cells does not include phases 1 and 2
+  p 38 imgs= 1 | The Action Potential of Slowly Depolarizing Cells
+  p 40 imgs= 0 | Cardiac electrophysiology
+  p 41 imgs= 1 | Figure10. Action potential of the sinus node and its different ionic currents (in red) participating in slow s
+  p 42 imgs= 0 | The Action Potential of Slowly Depolarizing Cells
+  p 44 imgs= 0 | Cardiac electrophysiology
+  p 46 imgs= 0 | The action potential of slowly depolarizing cells does not include phases 1 and 2
+  p 47 imgs= 1 | Cardiac electrophysiology
+  p 52 imgs= 2 | Excito-conductive or cardionector tissue
+  p 53 imgs= 0 | Cardiac electrophysiology
+  p 55 imgs= 1 | Duration of transmission of depolarization from the NSA to the different conduction zones:
+  p 56 imgs= 0 | Cardiac electrophysiology
+  p 59 imgs= 1 | The normal propagation of electrical activity in the heart
+  p 60 imgs= 0 | Cardiac electrophysiology
+  p 64 imgs= 1 | Excitation-contraction coupling (electromechanical coupling):
+  p 65 imgs= 0 | Cardiac electrophysiology
+  p 69 imgs= 1 | Influence of the autonomic nervous system on cardiac electrophysiology: control of spontaneous sinus node acti
+  p 70 imgs= 0 | Cardiac electrophysiology
+
+===== physio cardiovasculaire/2)Lecyclecardiaque_EN.pdf (pdf, 29 pages) =====
+  p  1 imgs= 0 | Faculty of Medicine of Algiers
+  p  2 imgs= 0 | CARDIAC CYCLE
+  p 10 imgs= 0 | CARDIAC CYCLEMechanical, hemodynamic and electrical changes
+  p 12 imgs= 1 | CARDIAC CYCLE
+  p 13 imgs= 1 | CARDIAC CYCLE5- The arrival of blood from the atrium
+  p 14 imgs= 0 | CARDIAC CYCLEMechanical, hemodynamic and electrical changes
+  p 15 imgs= 1 | CARDIAC CYCLE
+  p 16 imgs= 1 | CARDIAC CYCLE14- Ventricular pressure exceeds
+  p 17 imgs= 1 | CARDIAC CYCLE
+  p 18 imgs= 0 | CARDIAC CYCLEMechanical, hemodynamic and electrical changes
+  p 19 imgs= 1 | CARDIAC CYCLE
+
+===== physio cardiovasculaire/3)Ledébitcardiaque__EN.pdf (pdf, 33 pages) =====
+  p  1 imgs= 0 | Faculty of Medicine of Algiers
+  p  2 imgs= 0 | CARDIAC FLOW
+
+===== physio cardiovasculaire/4)regulationdelapressionartérielle_EN.pptx (pptx, 66 pages) =====
+  p  1 imgs= 0 | Cardiovascular Physiology
+  p  2 imgs= 0 | Regulation of blood pressure
+  p  3 imgs= 1 | General
+  p  5 imgs= 0 | Physical Basics of Traffic
+  p 16 imgs= 0 | High pressure system
+  p 29 imgs= 1 | Blood pressure measurement
+  p 32 imgs= 0 | High pressure system
+  p 33 imgs= 0 | World Health Organization (WHO) definitions
+  p 34 imgs= 0 | IV-Blood pressure measurement:
+  p 35 imgs= 0 | Regulation of blood pressure
+  p 36 imgs= 0 | Resistors
+  p 37 imgs= 0 | Regulation of blood pressure
+  p 45 imgs= 1 | (no text)
+  p 47 imgs= 0 | Regulation of blood pressure
+  p 51 imgs= 1 | Medium-term regulation of BP: hormonal regulation
+  p 52 imgs= 0 | Regulation of blood pressure
+  p 54 imgs= 1 | (no text)
+  p 56 imgs= 0 | Regulation of blood pressure
+  p 58 imgs= 0 | Adaptation of blood pressure in physiological situations
+  p 65 imgs= 0 | Conclusion:
+
+===== physio cardiovasculaire/5)Systèmeàbassepression_EN.pptx (pptx, 40 pages) =====
+  p  1 imgs= 0 | Chapter 5: Low Pressure System
+  p  3 imgs= 1 | Blood circulation
+  p  4 imgs= 0 | Chapter 5: Low Pressure System
+  p  5 imgs= 1 | Venous circulation
+  p  6 imgs= 0 | Chapter 5: Low Pressure System
+  p  7 imgs= 1 | Blood flow rate
+  p  8 imgs= 0 | Chapter 5: Low Pressure System
+  p 20 imgs= 1 | Influence of gravity on venous pressure
+  p 21 imgs= 1 | Physical Basics of Traffic
+  p 22 imgs= 0 | Chapter 5: Low Pressure System
+
+===== physio cardiovasculaire/6)Lacirculationcoronaire__EN.pptx (pptx, 31 pages) =====
+  p  1 imgs= 0 | Cardiovascular Physiology
+  p  2 imgs= 0 | Chapter 6: Coronary circulation
+
+===== physio cardiovasculaire/7)L’hémostase(Laphysiologiedusang)_EN.pdf (pdf, 33 pages) =====
+  p  1 imgs= 0 | Faculty of Medicine of Algiers
+  p  2 imgs= 0 | BLOOD PHYSIOLOGY
+  p  3 imgs= 0 | INTRODUCTION
+  p  5 imgs= 0 | BLOOD COMPOSITION
+  p  9 imgs= 1 | Erythropoiesis
+  p 10 imgs= 0 | BLOOD COMPOSITION
+  p 11 imgs= 1 | Elaine N Marieb-Katja HoehnHuman
+  p 12 imgs= 0 | BLOOD COMPOSITION
+  p 13 imgs= 1 | Elaine Nmarieb-Katja HoehnHuman Anatomy and
+  p 14 imgs= 0 | HEMOSTASIS
+  p 18 imgs= 0 | NOMENCLATURE OF COAGULATION FACTORS
+  p 19 imgs= 0 | HEMOSTASIS
+  p 23 imgs= 0 | intrinsic coagulation extrinsic (endogenous) coagulation (exogenous)
+  p 24 imgs= 0 | HEMOSTASIS
+
+===== physio cardiovasculaire/TD-01) L'ECG .pdf (pdf, 47 pages) =====
+  p  1 imgs=20 | Université d’Alger 1- Faculté de Médecine
+  p  2 imgs=20 | ELECTROCARDIOGRAMME (ECG)
+
+===== histology/1)Histologiedel_AppareilCardio-vasculaire_EN.pptx (pptx, 97 pages) =====
+  p  1 imgs= 0 | CARDIOVASCULAR DEVICE2025/2026Dr BouzeriaPr Boudiaf R
+  p  2 imgs= 0 | I-Introduction.
+  p  3 imgs= 0 | I/INTRODUCTION
+  p  4 imgs= 1 | The interstitial fluid circulating in the lymphatic vessels is called lymph.
+  p  5 imgs= 0 | II-EMBRYOLOGY
+  p  6 imgs= 1 | Around the 20th day of embryo development: the cells of the mesoderm differentiate and group into angio-formin
+  p  7 imgs= 2 | -These cell clusters are arranged in 2 cell cords located on each side of the primitive line,
+  p  8 imgs= 1 | -Other angio-forming cell clusters appear on each side and parallel to the midline
+  p  9 imgs= 2 | Thanks to the delimitation of the embryo, the cardiac area which was extra-embryonic will become intra-embryon
+  p 10 imgs= 1 | The primitive heart tube will undergo the following transformations:
+  p 11 imgs= 1 | (no text)
+  p 12 imgs= 0 | III/HISTOLOGICAL STUDY OF THE HEART WALL
+  p 13 imgs= 1 | 13
+  p 14 imgs= 0 | Fibrous skeleton
+  p 16 imgs= 0 | 1-Endocardium
+  p 17 imgs= 1 | (no text)
+  p 18 imgs= 0 | Roles of endothelial cells
+  p 19 imgs= 1 | Endothelial cells in light microscopy
+  p 20 imgs= 1 | Endocardium
+  p 22 imgs= 1 | The valves
+  p 23 imgs= 1 | (no text)
+  p 24 imgs= 1 | Cords and papillary muscle
+  p 25 imgs= 0 | 2- The myocardium
+  p 26 imgs= 1 | General view of the myocardium
+  p 27 imgs= 0 | The myocardial cells themselves (contractile)
+  p 28 imgs= 1 | Blood vessel
+  p 29 imgs= 1 | (no text)
+  p 30 imgs= 1 | Human cardiomyocytes
+  p 31 imgs= 1 | Myocardial cells in
+  p 32 imgs= 0 | Myoendocrine cells:
+  p 33 imgs= 1 | (no text)
+  p 34 imgs= 0 | The nodal tissue (cardionector cells)
+  p 35 imgs= 0 | 3- The HIS beam:
+  p 36 imgs= 1 | Anatomy of Cardionectoral Tissue
+  p 37 imgs= 0 | Structurally, cut nodal fibers
+  p 38 imgs= 1 | Cells of the Purkinje network M. High magnification optics
+  p 39 imgs= 1 | (no text)
+  p 40 imgs= 1 | Purkinje cells
+  p 41 imgs= 0 | 3- The pericardium
+  p 42 imgs= 0 | 1- A mesothelium: made of a single layer of squamous cells united together by junction complexes and desmosome
+  p 43 imgs= 1 | (no text)
+  p 44 imgs= 1 | Pericardium visceral layer:
+  p 45 imgs= 0 | VASCULARIATION OF THE HEART
+  p 46 imgs= 1 | ////////
+  p 47 imgs= 1 | (no text)
+  p 48 imgs= 0 | The total obstruction of a branch leads to the cessation of traffic in the region served by this branch. Necro
+  p 49 imgs= 0 | INNERVATION OF THE HEART
+  p 50 imgs= 1 | At the level of the epicardium of the posterior surface of the atria, there are nerve cells organized into ple
+  p 51 imgs= 0 | The ships
+  p 52 imgs= 0 | A- Blood vessels
+  p 54 imgs= 1 | Adventitia
+  p 55 imgs= 0 | 1- Arteries 2 types: elastic and muscular
+  p 56 imgs= 0 | - elastic type arteries: the widest are conduction vessels. They receive very high flow from the left ventricl
+  p 57 imgs= 0 | Topography relative to the heart
+  p 58 imgs= 0 | Artery type
+  p 60 imgs= 1 | Intima
+  p 61 imgs= 1 | Endothelium
+  p 62 imgs= 1 | ARTERIOLE
+  p 63 imgs= 1 | Arteriole, cross section M. Optics
+  p 64 imgs= 0 | Compared to the arteriolar wall, the wall of the arterioles
+  p 65 imgs= 0 | At the media level:
+  p 66 imgs= 1 | Metarteriole
+  p 67 imgs= 1 | (no text)
+  p 68 imgs= 0 | In the wall of the pre-capillary segment, the areas of
+  p 69 imgs= 0 | 2-Veins
+  p 70 imgs= 0 | 2- The veins
+  p 71 imgs= 0 | -Smooth muscle fibers interspersed by,
+  p 72 imgs= 1 | Wall of a vein: In = Intima; M = Media; A = Adventitia
+  p 73 imgs= 0 | NB: compared to the artery, the vein has
+  p 74 imgs= 1 | Vasculo-nervous package Muscular artery, vein and nerve fibers
+  p 75 imgs= 0 | The structural analysis of the veins allows us to identify 03 varieties of veins:
+  p 76 imgs= 0 | 2- Fibrous veins:
+  p 77 imgs= 1 | (no text)
+  p 78 imgs= 0 | The large veins of the lower part of the body are
+  p 79 imgs= 1 | Functional characteristics of veins
+  p 80 imgs= 0 | 4- Veins:
+  p 81 imgs= 0 | 3-The capillaries
+  p 83 imgs= 1 | Capillary bed
+  p 84 imgs= 1 | Metarteriole
+  p 85 imgs= 0 | Depending on their location in the arterial and venous vascular territory, capillary networks are classified i
+  p 86 imgs= 0 | The wall of typical capillaries includes:
+  p 87 imgs= 1 | CONTINUOUS CAPILLARY
+  p 88 imgs= 0 | 2- Atypical capillaries: represented by
+  p 89 imgs= 1 | Sinusoid capillary of the liver
+  p 90 imgs= 1 | (no text)
+  p 91 imgs= 0 | B- Lymphatic vessels
+  p 93 imgs= 1 | Capillary network
+  p 94 imgs= 0 | On a cross section of a lymphatic vein, we
+  p 95 imgs= 1 | (no text)
+  p 96 imgs= 1 | Large lymphatic capillary containing lymph with very fine valves that control the direction of flow
+  p 97 imgs= 0 | Thank you for your attention!
+
+===== histology/2)Histologiedel_appareilrespiratoire__EN.pdf (pdf, 70 pages) =====
+  p  1 imgs= 1 | EMBRYOLOGY AND HISTOLOGY
+  p  2 imgs= 2 | (no text)
+  p  3 imgs= 1 | COURSE PLAN. INTRODUCTION:B.
+  p  4 imgs= 1 | (no text)
+  p  5 imgs= 2 | A- INTRODUCTION:
+  p  6 imgs= 2 | B - EMBRYOLOGICAL ORIGIN Organogenesis begins towards
+  p  7 imgs= 2 | Organogenesis: Longitudinal section of an embryo of
+  p  8 imgs= 2 | 5 week 8 week old embryo longitudinal section cross section
+  p  9 imgs= 3 | Evolution of the diverticulum
+  p 10 imgs= 1 | Fetal lung malformations are rare and most often have a good prognosis: hypoplasia
+  p 11 imgs= 1 | entoblast
+  p 12 imgs= 2 | Development timeline
+  p 13 imgs= 1 | C - GENERAL ORGANIZATION
+  p 14 imgs= 2 | GENERAL ORGANIZATION AEROPHORA ROUTES: SEGMENTATION -
+  p 15 imgs= 1 | D ? HISTOLOGICAL STRUCTURE 1) the
+  p 16 imgs= 2 | a- Nasal cavity: respiratory mucosa
+  p 17 imgs= 1 | The respiratory mucosa = Epithelium + Chorion
+  p 18 imgs= 1 | 2 - The chorion of the respiratory mucosa:
+  p 19 imgs= 2 | (no text)
+  p 20 imgs= 3 | Optical microscope: Hematein-eosin staining
+  p 21 imgs= 3 | Respiratory epithelium (diagram showing the
+  p 22 imgs= 1 | Structure and ultra structure
+  p 23 imgs= 2 | Respiratory type epithelium at high magnification (H.E)
+  p 24 imgs= 3 | Respiratory type epithelium
+  p 25 imgs= 1 | Sagittal section of the head
+  p 26 imgs= 2 | b- The nasopharynx:
+  p 27 imgs= 2 | Nasopharyngeal mucosa (EO staining)
+  p 28 imgs= 1 | 2°) The airways themselves: a- The extra-pulmonary
+  p 29 imgs= 3 | The larynx
+  p 30 imgs= 2 | (no text)
+  p 31 imgs= 2 | The lower vocal cords or true vocal cords:
+  p 32 imgs= 1 | a2- The trachea and main bronchi:
+  p 33 imgs= 2 | Anatomical report of the trachea
+  p 34 imgs= 1 | a2- The trachea and main bronchi: ? The mucosa:
+  p 35 imgs=10 | Wall of the trachea at the MO; HE coloring
+  p 36 imgs= 1 | b- The intrapulmonary bronchial passages and
+  p 37 imgs= 2 | (no text)
+  p 38 imgs= 2 | Bronchi and Bronchioles
+  p 39 imgs= 2 | (no text)
+  p 41 imgs= 1 | C- The intralobular bronchial passages = Bronchioles Their wall contains neither
+  p 42 imgs= 2 | +++
+  p 43 imgs= 7 | Bronchiole itself
+  p 44 imgs= 2 | (no text)
+  p 45 imgs= 3 | Epithelium of a terminal bronchiole (ME):
+  p 46 imgs= 1 | 3°) Histology of the pulmonary lobule: The pulmonary
+  p 47 imgs= 3 | The pulmonary lobule
+  p 48 imgs= 2 | Structure of the alveolar rim
+  p 49 imgs= 3 | a- The alveolar wall:-It is defined as being the
+  p 50 imgs= 4 | Alveolar wall and alveolar-capillary barrier (air-blood
+  p 51 imgs= 2 | a1- The alveolar epithelium
+  p 52 imgs= 2 | b2- The alveolar stroma
+  p 53 imgs= 2 | b3 - The capillary network:
+  p 54 imgs= 1 | Alveolar wall and alveolar-capillary barrier observed in
+  p 55 imgs= 2 | b -The alveolar-capillary barrier or barrier of
+  p 56 imgs= 0 | 4°) Histophysiology
+  p 58 imgs= 1 | E- Histology of the pleura
+  p 59 imgs= 1 | Structure of the pleura
+  p 60 imgs= 1 | (no text)
+  p 61 imgs= 2 | Visceral pleura, Human lung, Masson trichrome x 250.
+  p 62 imgs= 0 | Thank you for your
+  p 63 imgs= 1 | (no text)
+  p 65 imgs= 1 | Air-Blood Barrier (diagram in M.E)
+  p 66 imgs= 1 | Which wall is this, and why?
+  p 67 imgs= 2 | (no text)
+  p 68 imgs= 1 | The pulmonary lobule
+  p 69 imgs= 1 | The nasal mucosa
+  p 70 imgs= 1 | The pulmonary lobule in the MO
+
+===== histology/3)Histologiedesorganeshematopoïetiques__EN.pptx (pptx, 67 pages) =====
+  p  1 imgs= 1 | Blood-forming organs (Part One) bone marrow – lymph node MALT tissue
+  p  2 imgs= 0 | I –Introduction to the hematopoietic organs.
+  p  3 imgs= 0 | INTRODUCTION
+  p  4 imgs= 1 | DEFINITION
+  p  5 imgs= 0 | Pluripotent stem cell
+  p  6 imgs= 0 | Blood-forming organs
+  p  7 imgs= 1 | Thymus
+  p  8 imgs= 0 | CLASSIFICATION OF ORGANS
+  p  9 imgs= 0 | Blood-forming organs
+  p 10 imgs= 0 | I –Introduction to the hematopoietic organs.
+  p 11 imgs= 0 | The embryological origin of organs
+  p 12 imgs= 0 | LOCATIONS OF HEMATOPOIESIS:
+  p 13 imgs= 1 | Yolk sac
+  p 14 imgs= 1 | Locations of hematopoiesis from embryonic life to birth
+  p 15 imgs= 0 | I –Introduction to the hematopoietic organs.
+  p 16 imgs= 0 | Pluripotent stem cell
+  p 17 imgs= 0 | I –Introduction to the hematopoietic organs.
+  p 18 imgs= 0 | BONE MARROW:
+  p 19 imgs= 0 | I –Introduction to the hematopoietic organs.
+  p 20 imgs= 1 | OsteoMedullary Biopsy (OMB)
+  p 21 imgs= 1 | (no text)
+  p 22 imgs= 1 | the bone lamellae (red) delimit cells, containing hematopoiesis cells (in purple) and fat globules (translucen
+  p 23 imgs= 1 | Bone lamella
+  p 24 imgs= 1 | Bone marrow observed under a high magnification light microscope
+  p 25 imgs= 2 | Orthochromatic normoblast
+  p 26 imgs= 0 | The bone marrow examined under medium magnification appears to be made up of a heterogeneous set of cells:
+  p 27 imgs= 0 | THE BONE MARROW PARENCHYMA
+  p 28 imgs= 1 | Orthochromatic normoblast
+  p 29 imgs= 1 | I –Introduction to the hematopoietic organs.
+  p 31 imgs= 0 | HEMATOPOIESIS AND LYMPHOPOIESIS.
+  p 32 imgs= 0 | I –Introduction to the hematopoietic organs.
+  p 33 imgs= 1 | Thoracic duct
+  p 34 imgs= 1 | Reminders on lymphatic circulation
+  p 35 imgs= 2 | LYMPH: Comes from the blood,
+  p 36 imgs= 3 | Lymphoid infiltrate
+  p 37 imgs= 1 | Histological section of a lymph node observed under a light microscope at medium magnification (secondary lymp
+  p 38 imgs= 0 | I –Introduction to the hematopoietic organs.
+  p 39 imgs= 1 | The lymph node is a secondary lymphoid organ, rounded or ovoid, well delimited by a capsule.
+  p 40 imgs= 1 | (no text)
+  p 41 imgs= 0 | I –Introduction to the hematopoietic organs.
+  p 42 imgs= 0 | STRUCTURE OF THE LYMPHATIC NODE:
+  p 43 imgs= 1 | Histological section of a lymph node observed under a light microscope at low magnification
+  p 44 imgs= 1 | Capsule and connective framework
+  p 45 imgs= 1 | Reticulin fibers and reticular cells = The Weft
+  p 46 imgs= 1 | Cellular and fibrillar framework of a lymph node
+  p 47 imgs= 1 | The reticular cell
+  p 48 imgs= 1 | (no text)
+  p 49 imgs= 1 | Lymph node; medullary area
+  p 50 imgs= 1 | Superficial cortex
+  p 51 imgs= 0 | I –Introduction to the hematopoietic organs.
+  p 52 imgs= 0 | THE VASCULARIZATION OF THE LYPHATIC NODE IS DOUBLE:
+  p 53 imgs= 1 | Marginal sinus
+  p 54 imgs= 1 | Lymph node; subcapsular sinus
+  p 55 imgs= 0 | 2/ BLOOD VASCULARIZATION: IMPORTANT ROLE;
+  p 56 imgs= 1 | Afferent lymphatic
+  p 57 imgs= 0 | I –Introduction to the hematopoietic organs.
+  p 58 imgs= 1 | HISTOPHYSIOLOGY
+  p 59 imgs= 2 | Lymphadenopathy: Enlargement of a lymph node in response to
+  p 60 imgs= 0 | I –Introduction to the hematopoietic organs.
+  p 61 imgs= 0 | The mucous membranes of the body are related either to the external environment (respiratory or upper digestiv
+  p 62 imgs= 1 | Lymphoid tissue associated with the nose: adenoids, tonsils
+  p 63 imgs= 2 | Palatine tonsils,
+  p 64 imgs= 1 | Muscle fibers
+  p 65 imgs= 1 | Esophagus HE
+  p 66 imgs= 1 | Peyer's patch (appendix): Lymphoid nodules with germinal centers
+  p 67 imgs= 1 | Large intestine
+
+===== histology/4)Histologiedelarate_EN.pptx (pptx, 36 pages) =====
+  p  1 imgs= 0 | DR F BAIRI DR Y BOUDIAF
+  p  2 imgs= 1 | THE SPLEEN
+  p  3 imgs= 4 | Introduction
+  p  4 imgs= 2 | (no text)
+  p  6 imgs= 3 | Embryological reminder
+  p  7 imgs= 3 | structure
+  p  8 imgs= 2 | Connective elements.
+  p  9 imgs= 2 | Connective elements of the spleen seen under medium magnification light microscopy (Hemalun-eosin-saffron)
+  p 10 imgs= 3 | The splenic pulp.
+  p 11 imgs= 3 | The frame or reticulum.
+  p 12 imgs= 3 | The reticular framework
+  p 13 imgs= 2 | Like the lymph node and marrow, the supporting stroma of the spleen is composed of reticular cells and reticul
+  p 14 imgs= 2 | General view of a spleen under low magnification optical microscopy stained with hemalun-Eosin-Saffron. 1-caps
+  p 15 imgs= 3 | Splenic parenchyma (H-E-S)
+  p 16 imgs= 3 | The red pulp.
+  p 17 imgs= 2 | The venous sinuses of the splenic red pulp
+  p 18 imgs= 4 | (no text)
+  p 19 imgs= 2 | The Red Pulp
+  p 20 imgs= 2 | 3-the cords of BILLROTH, formed of macrophages and lymphoid cells (B cells and its derivatives) free in the me
+  p 21 imgs= 3 | (no text)
+  p 22 imgs= 2 | The white pulp.
+  p 23 imgs= 3 | (no text)
+  p 24 imgs= 2 | MALPIGUI corpuscles
+  p 25 imgs= 3 | INTRA-SPLENIC BLOOD CIRCULATION.
+  p 26 imgs= 2 | (no text)
+  p 27 imgs= 1 | The majority of splenic T cells reside in the non-nodular portion of the periarterial sheath immediately surro
+  p 28 imgs= 2 | 3-functionally, the splenic circulation is said to be:
+  p 29 imgs= 2 | (no text)
+  p 30 imgs= 1 | HISTOPHYSIOLOGY
+  p 31 imgs= 1 | Roles of lymphocytes.
+  p 32 imgs= 1 | The macrophage system
+  p 33 imgs= 1 | Topographically, the macrophages are found at:
+  p 34 imgs= 3 | Splenic phagocytes (macrophages) loaded with brownish-yellow particles of hemosiderin, ingested during the des
+  p 36 imgs= 1 | conclusion
+
+===== histology/5)Histologieduthymus_EN.pptx (pptx, 33 pages) =====
+  p  1 imgs= 0 | The thymus
+  p  2 imgs= 1 | INTRODUCTION
+  p  3 imgs= 1 | Embryological reminder
+  p  4 imgs= 3 | The thymus
+  p  5 imgs= 1 | The thymic outline
+  p  6 imgs= 1 | Thymus lymphocytes are of mesenchymal origin, originating in the marrow and undergoing their differentiation i
+  p  7 imgs= 1 | Structure
+  p  8 imgs= 1 | Each lobe is divided into lobules separated by polyhedral conjunctivovascular interlobular partitions
+  p 10 imgs= 1 | the lobule is,
+  p 11 imgs= 1 | Overview of a thymus (MO-HES)
+  p 12 imgs= 1 | Child's thymus; overview
+  p 13 imgs= 1 | Adult thymus. Overview
+  p 14 imgs= 2 | Thymus cells:
+  p 15 imgs= 1 | In mo we observe:
+  p 16 imgs= 1 | (no text)
+  p 18 imgs= 2 | -Macrophages:
+  p 19 imgs= 2 | Dendritic cells
+  p 20 imgs= 1 | Reticular cells,
+  p 21 imgs= 1 | (no text)
+  p 22 imgs= 2 | -T lymphocytes:
+  p 23 imgs= 3 | The HASSAL corpuscle
+  p 24 imgs= 2 | Thymus (medullary)
+  p 25 imgs= 4 | (no text)
+  p 28 imgs= 0 | Histophysiology
+  p 29 imgs= 1 | ○ auxiliaries or CD4 which promote the humoral response by stimulating the B
+  p 30 imgs= 1 | (no text)
+  p 33 imgs= 0 | conclusion
