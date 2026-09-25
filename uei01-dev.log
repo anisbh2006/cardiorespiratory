@@ -88,3 +88,22 @@ Port 5173 is in use, trying another one...
 3:38:09 PM [vite] (client) hmr update /src/index.css, /src/components/layout/TopBar.tsx
 3:38:17 PM [vite] (client) hmr update /src/index.css, /src/components/layout/TopBar.tsx
 3:38:27 PM [vite] (client) hmr update /src/index.css, /src/components/layout/TopBar.tsx
+3:39:27 PM [vite] (client) hmr update /src/index.css, /src/pages/HomePage.tsx
+3:39:53 PM [vite] (client) hmr update /src/index.css, /src/pages/HomePage.tsx
+3:40:30 PM [vite] (client) hmr update /src/index.css, /src/components/medical/ImageFigure.tsx
+3:40:50 PM [vite] (client) hmr update /src/index.css, /src/components/medical/Callout.tsx
+3:41:26 PM [vite] (client) hmr update /src/index.css, /src/components/medical/DataTable.tsx
+3:41:36 PM [vite] (client) hmr update /src/index.css, /src/components/medical/DefinitionBox.tsx
+3:41:47 PM [vite] (client) hmr update /src/index.css, /src/components/medical/AwaitingContent.tsx
+3:44:27 PM [vite] (client) hmr update /src/index.css, /src/components/medical/StructureInfoPanel.tsx
+3:44:35 PM [vite] (client) hmr update /src/index.css, /src/components/medical/StructureInfoPanel.tsx
+3:44:56 PM [vite] (client) hmr update /src/index.css, /src/pages/LessonPage.tsx
+3:45:02 PM [vite] (client) hmr update /src/index.css, /src/pages/LessonPage.tsx
+3:45:25 PM [vite] (client) hmr update /src/index.css, /src/components/medical/LessonContent.tsx
+3:45:31 PM [vite] (client) hmr update /src/index.css, /src/pages/AnatomyPage.tsx
+3:45:50 PM [vite] (client) hmr update /src/index.css, /src/pages/DisciplinePage.tsx
+3:46:02 PM [vite] (client) hmr update /src/index.css, /src/pages/DisciplinePage.tsx
+3:46:18 PM [vite] (client) hmr update /src/index.css
+3:46:52 PM [vite] (client) hmr update /src/index.css, /src/pages/BiophysicsPage.tsx
+3:47:08 PM [vite] (client) hmr update /src/index.css, /src/pages/PhysiologyPage.tsx
+3:47:20 PM [vite] (client) hmr update /src/index.css, /src/pages/AnatomyPage.tsx
